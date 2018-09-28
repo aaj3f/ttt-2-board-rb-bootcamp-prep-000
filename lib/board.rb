@@ -1,3 +1,2 @@
 # Define the variable board below.
-board = [" "]
-board.length = 9
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
